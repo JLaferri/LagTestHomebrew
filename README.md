@@ -19,7 +19,8 @@ The Arduino file can be found here:
 https://github.com/JLaferri/LagTestHomebrew/blob/master/Arduino%20Code/lagtester_current.ino
 
 ## Homebrew App
-This contains the files required for 
+The following folder contains the app files to be used on homebrew channel on a hacked Wii
+https://github.com/JLaferri/LagTestHomebrew/tree/master/Homebrew%20App%20Compiled/LagTestHomebrew
 
 ## Instructions
 This sections explains how to actually use the tester
