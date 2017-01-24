@@ -1,4 +1,4 @@
-Right now this Wiki will contain the very minimal information required to duplicate my lag tester
+Right now this readme will contain the very minimal information required to duplicate my lag tester. If anyone wants to make a more detailed guide I'm open to placing it here, or linking to it.
 
 ## Board
 <a href="https://oshpark.com/shared_projects/O6JRaha8"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
