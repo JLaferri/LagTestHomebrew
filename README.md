@@ -10,12 +10,16 @@ The above was an order I made to make 3 lag testers... You don't need the photoc
 
 ### Soldering Guide
 This isn't really a guide so much as an aid to tell you where to place what components...
+https://github.com/JLaferri/LagTestHomebrew/blob/master/SolderGuide.pdf
 
 ### Flashing the Processor
 Once you have soldered the board together you will need to flash the processor with the code required to do the testing and run the display. The processor design is based on an Arduino and this can be done using the Arduino IDE. Open the IDE, select the correct programmer, and flash using the programmer. You will need a programmer such as https://www.sparkfun.com/products/9825
 
-## Homebrew App
+The Arduino file can be found here:
+https://github.com/JLaferri/LagTestHomebrew/blob/master/Arduino%20Code/lagtester_current.ino
 
+## Homebrew App
+This contains the files required for 
 
 ## Instructions
 This sections explains how to actually use the tester
