@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="SVN">
+	<name>Fizzi's Lag Test</name>
+	<version>r3</version>
+	<release_date>20140504000000</release_date>
+	<short_description>Lag Testing</short_description>
+	<long_description>This application is designed to work in conjunction with the lag testing device designed by Fizzi.</long_description>
+	<no_ios_reload/>
+</app>
