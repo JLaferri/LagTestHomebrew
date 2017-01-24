@@ -11,13 +11,17 @@ The above was an order I made to make 3 lag testers... You don't need the photoc
 ### Soldering Guide
 This isn't really a guide so much as an aid to tell you where to place what components...
 
+### Flashing the Processor
+Once you have soldered the board together you will need to flash the processor with the code required to do the testing and run the display. The processor design is based on an Arduino and this can be done using the Arduino IDE. Open the IDE, select the correct programmer, and flash using the programmer. You will need a programmer such as https://www.sparkfun.com/products/9825
 
 ## Homebrew App
+
 
 ## Instructions
 This sections explains how to actually use the tester
 
 ### Calibration
+To add... I think it works kinda like the process in the next section but you gotta hold the button down first? I need to remember how to do this lol. Without calibrating, however, results will be meaningless. A "safe" CRT should be used to calibrate.
 
 ### Executing a Test
 1. Ensure that the room you are testing in is not flooded with sunlight. The light sensor works by detecting lux and the sun will saturate the voltage output because it produces a lot of it. Too much artificial lighting is also not good but you should be fine as long as there's not a really bright light right behind the monitor you're testing or something.
