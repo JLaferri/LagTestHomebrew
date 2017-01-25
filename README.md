@@ -1,5 +1,7 @@
 Right now this readme will contain the very minimal information required to duplicate my lag tester. If anyone wants to make a more detailed guide I'm open to placing it here, or linking to it.
 
+Here is a demonstation video of the device in use: https://www.youtube.com/watch?v=UTNUIQtreXQ
+
 ## Board
 <a href="https://oshpark.com/shared_projects/O6JRaha8"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
@@ -21,6 +23,13 @@ https://github.com/JLaferri/LagTestHomebrew/blob/master/Arduino%20Code/lagtester
 ## Homebrew App
 The following folder contains the app files to be used on homebrew channel on a hacked Wii
 https://github.com/JLaferri/LagTestHomebrew/tree/master/Homebrew%20App%20Compiled/LagTestHomebrew
+
+## Additional Requirements
+Depending on what you intend to test you might need audio converters/extenders. Here are a few that I've used:
+* https://www.amazon.com/gp/product/B00004Z5CP
+* https://www.amazon.com/Female-Audio-Extension-Cable-CNE63133/dp/B00B973X20
+
+You'll also need to purchase a 9V battery.
 
 ## Instructions
 This sections explains how to actually use the tester
