@@ -33,7 +33,7 @@ https://github.com/JLaferri/LagTestHomebrew/blob/master/Arduino%20Code/lagtester
 The following folder contains the app files to be used on homebrew channel on a hacked Wii
 https://github.com/JLaferri/LagTestHomebrew/tree/master/Homebrew%20App%20Compiled/LagTestHomebrew
 
-## Additional Requirements
+## Additional Materials
 Depending on what you intend to test you might need audio converters/extenders. Here are a few that I've used:
 * https://www.amazon.com/gp/product/B00004Z5CP
 * https://www.amazon.com/Female-Audio-Extension-Cable-CNE63133/dp/B00B973X20
