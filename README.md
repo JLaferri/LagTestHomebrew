@@ -2,6 +2,11 @@ Right now this readme will contain the very minimal information required to dupl
 
 Here is a demonstation video of the device in use: https://www.youtube.com/watch?v=UTNUIQtreXQ
 
+## Theory and Limitations
+Currently this method only works using a Wii with homebrew channel installed. In order for the test to work you need to have a display that emits white light synced up with a sound cue. Both are picked up by the board and the offset is used to calculate the lag. The theory behind it is that the audio will never be delayed whereas the video will be. A CRT is used for calibration.
+
+The Wii limitation could be eliminated if someone designed something else that created these same signals on generic displays. The nice thing about using the Wii is that you know you are providing the same output to the monitor that you would playing a smash game on Wii.
+
 ## Board
 <a href="https://oshpark.com/shared_projects/O6JRaha8"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
