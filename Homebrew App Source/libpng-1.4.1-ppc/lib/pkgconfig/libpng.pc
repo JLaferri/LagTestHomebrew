@@ -1,0 +1,11 @@
+prefix=${DEVKITPRO}/portlibs/ppc
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.4.1
+Libs: -L${libdir} -lpng
+Libs.private: -lz -lm 
+Cflags: -I${includedir}
