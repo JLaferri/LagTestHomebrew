@@ -15,7 +15,7 @@ Click the following link to order some boards or download the gerbers:
 Another fab that I recommend if you want to get a few more made is https://www.seeedstudio.com/fusion_pcb.html
 
 ## Components
-http://www.digikey.com/short/3rd243
+https://docs.google.com/spreadsheets/d/1Dj-m-Ip__IdE_k23mZq7f_099_O0pOspUQSO7Uzj5Qs/edit?usp=sharing
 
 The above was an order I made to make 3 lag testers... You don't need the photocell, that was experimental and I didn't end up really using it. There's potentially cheaper places to get the light sensor and this cart is pretty old so likely you'll have to find compatible components. If you want to provide an updated cart I can add it to this Wiki.
 
