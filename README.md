@@ -17,7 +17,7 @@ Another fab that I recommend if you want to get a few more made is https://www.s
 ## Components
 https://docs.google.com/spreadsheets/d/1Dj-m-Ip__IdE_k23mZq7f_099_O0pOspUQSO7Uzj5Qs/edit?usp=sharing
 
-The above was an order I made to make 3 lag testers... You don't need the photocell, that was experimental and I didn't end up really using it. There's potentially cheaper places to get the light sensor and this cart is pretty old so likely you'll have to find compatible components. If you want to provide an updated cart I can add it to this Wiki.
+The above were the parts I used at some point... This was actually a long time ago so I'm not even sure how useful those part numbers are going to be but it's the best I have.
 
 ### Soldering Guide
 This isn't really a guide so much as an aid to tell you where to place what components...
